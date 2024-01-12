@@ -259,8 +259,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Cloud Hosting Plans",
-        "meta_descr": "HostMyCloud offers shared hosting via DirectAdmin and HestiaCP. Our simple Black and White page highlights the plans we offer.",
+        "title": "HostMyCloud",
+        "meta_descr": "HostMyCloud offers premium and affordable shared web hosting services.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
